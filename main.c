@@ -3,6 +3,6 @@ int a = 10;
 int main()
 {
     printf("Hello, World!");
-    printf("Hello branch b2");
+    printf("Hello branch b1");
     return 0;
 }
